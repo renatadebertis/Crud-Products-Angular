@@ -11,18 +11,21 @@ After cloning the project on your machine, the first step is to open the folder 
 # Go in 'backend' folder
 cd backend
 
+# Install the dependencies (backend)
+Inside the backend folder, run the command npm install for install all dependencies. This process can take a few minutes
+
 # Run the backend command
 Inside the backend folder, run the command npm start on a native terminal or command line program, like 'cmd'
 
 To access the data json object, navigate to http://localhost:3001/products
 
-# Run the Development server (front-end)
+# Run the Development server (frontend)
 In another window of your terminal or command line program, go to the folder frontend
 
 # Go in 'frontend' folder
 cd frontend
 
-# Install the dependencies
+# Install the dependencies (frontend)
 Inside the frontend folder, run the command npm install for install all dependencies. This process can take a few minutes
 
 # Run the development server command
